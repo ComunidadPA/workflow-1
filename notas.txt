@@ -1,1 +1,4 @@
 Notas generales
+
+- Se debe considerar añadir archivo de funciones de
+  a la base de datos
